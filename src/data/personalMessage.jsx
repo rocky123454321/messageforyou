@@ -12,7 +12,7 @@ const personalMessages = {
   Valiao: "Merry Christmas nalang hahaha 🎄",
   Padilla: "PA KISS PRE HAHAAHHA",
   Manuel: "Merry Christmas nalang hahaha 🎄",
-  Perez: "Merry Christmas nalang hahaha 🎄"
+  Perez: "Merry Christmas nalang hahaha 🎄",
   Ramos: "Merry Christmas nalang hahaha 🎄",
   Sacdalan:"Merry Christmas nalang hahaha 🎄",
   Richmond:"Merry Christmas nalang hahaha 🎄",
