@@ -1,17 +1,17 @@
 
 const personalMessages = {
-  Estaño: "Believe in yourself and all that you are, SALAMAT SA LIBRE, Merry Christmas and Happy New Year 😉",
+  Estaño: "Believe in yourself and all that you are, SALAMAT SA LIBRE ⋆˙⟡, Merry Christmas and Happy New Year 😉",
   Mendoza: "Small steps every day lead to big changes, Merry Christmas and Happy New Year 🎄",
   Ducusin: "Stay positive, work hard, make it happen, Merry Christmas and Happy New Year 😄",
   Serdoncillo: "Your only limit is you, Merry Christmas and Happy New Year 🎅",
   Galvez: "Keep going, you are getting there, Merry Christmas and Happy New Year ✨",
-  Nepomuceno: "Dream big, start small, act now, YOU QUIET GUY HEHEHE, Merry Christmas and Happy New Year 😎",
+  Nepomuceno: "Dream big, start small, act now, YOU QUIET GUY HEHEHE ₍₍⚞(˶˃ ꒳ ˂˶)⚟⁾⁾, Merry Christmas and Happy New Year 😎",
   Toshi: "Every day is a second chance, WAG LANG MAG CHAT GPT HAHAHA, Merry Christmas and Happy New Year 🎄",
   Gozo: "Push yourself; no one else is going to do it for you, Merry Christmas and Happy New Year 😉",
   Castro: "Success is the sum of small efforts repeated daily, Merry Christmas and Happy New Year 😄",
   Camu: "Don’t watch the clock; do what it does—keep going, Merry Christmas and Happy New Year 🎅",
   Valiao: "Believe you can, and you’re halfway there, Merry Christmas and Happy New Year ✨",
-  Padilla: "Stay focused and never give up, AND STAY CUTE HAHAHA, Merry Christmas and Happy New Year 😎",
+  Padilla: "Stay focused and never give up, AND STAY CUTE HAHAHA . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁., Merry Christmas and Happy New Year 😎",
   Manuel: "Your potential is endless, Merry Christmas and Happy New Year 🎄",
   Perez: "Great things never come from comfort zones, Merry Christmas and Happy New Year 😉",
   Ramos: "You are capable of amazing things, Merry Christmas and Happy New Year 😄",
@@ -21,7 +21,7 @@ const personalMessages = {
   Salvacion: "Turn your dreams into plans, Merry Christmas and Happy New Year 🎄",
   Jardeliza: "Make today so awesome that yesterday gets jealous, Merry Christmas and Happy New Year 😉",
   Pangan: "Don’t stop until you’re proud, Merry Christmas and Happy New Year 😄",
-  Rocolcol: "Work hard in silence; let success shout, Merry Christmas and Happy New Year 🎅",
+  Rocolcol: "Don't stress yourself  ◝(ᵔᗜᵔ)◜. Do your best and enjoy. Merry Christmas and Happy New Year 🎅",
   SanDiego: "Stay humble, work hard, be kind, Merry Christmas and Happy New Year 😉",
   Tolentino: "Dream it, wish it, do it, Merry Christmas and Happy New Year 😄",
   Latoza: "Believe in your dreams and take action, Merry Christmas and Happy New Year 🎄",
@@ -32,18 +32,18 @@ const personalMessages = {
   Facebook: "Your mindset determines your success, Merry Christmas and Happy New Year 😎",
   Franchezca: "Every accomplishment starts with the decision to try, Merry Christmas and Happy New Year 🎄",
   Lorica: "Strive for progress, not perfection, Merry Christmas and Happy New Year 😉",
-  Antalan: "Great things take time, AND YOU GREAT PRESIDENT, Merry Christmas and Happy New Year 😄",
+  Antalan: "Great things take time, AND YOU GREAT PRESIDENT(⸝⸝> ᴗ•⸝⸝), Merry Christmas and Happy New Year 😄",
   Cabanlit: "Believe in your dreams; they were given to you for a reason, Merry Christmas and Happy New Year 🎅",
   Arias: "Keep pushing forward no matter what, Merry Christmas and Happy New Year ✨",
   Putri: "Success is earned, not given, Merry Christmas and Happy New Year 😎",
   Balgomia: "Your future is created by what you do today, Merry Christmas and Happy New Year 🎄",
-  Mondragon: "Do something today that your future self will thank you for, Merry Christmas and Happy New Year 😉",
+  Mondragon: "Do something today that your future self will thank you for (⸝⸝> ᴗ•⸝⸝), Merry Christmas and Happy New Year 😉",
   Felipe: "Stay strong; make them wonder how you’re still smiling, Merry Christmas and Happy New Year 😄",
   Magallanes: "Success starts with self-discipline, Merry Christmas and Happy New Year 🎅",
   Yanga: "Believe, act, achieve, Merry Christmas and Happy New Year ✨",
   Hiñorga: "Don’t wait for the perfect moment; take the moment and make it perfect, Merry Christmas and Happy New Year 😎",
   Castillo: "Stay positive, work hard, make it happen, Merry Christmas and Happy New Year 🎄",
-  Blas: "Turn your setbacks into comebacks, ALWAYS HARDWORK GALING MO SA COFFEE ART, Merry Christmas and Happy New Year 😉"
+  Blas: "Turn your setbacks into comebacks, ALWAYS HARDWORK GALING MO SA COFFEE ART . ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁., Merry Christmas and Happy New Year 😉"
 };
 
 export default personalMessages;
