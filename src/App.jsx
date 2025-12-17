@@ -3,17 +3,35 @@ import PixelBlast from './components/PixelBlast';
 import MessageBox from './components/MessageBox';
 import personalMessages from './data/personalMessage';
 
+
 function App() {
   const [name, setName] = useState('');
   const [messages, setMessages] = useState([]);
+  const [users, setUsers] = useState([]); // track entered names
 
   const handleAddMessage = () => {
     const trimmedName = name.trim();
     if (trimmedName === '') return;
-    const formattedName = trimmedName.charAt(0).toUpperCase() + trimmedName.slice(1).toLowerCase();
+
+    const formattedName =
+      trimmedName.charAt(0).toUpperCase() + trimmedName.slice(1).toLowerCase();
+
     const message = personalMessages[formattedName] || 'No message found for this name.';
+    
+    // Add message
     setMessages(prev => [...prev, `Hello, ${formattedName}! ${message}`]);
-    setName('');
+
+    // Track users if not already added
+    if (!users.includes(formattedName)) {
+      const updatedUsers = [...users, formattedName];
+      setUsers(updatedUsers);
+
+      // Log total count and names in console
+      console.log('Total Names Entered:', updatedUsers.length);
+      console.log('Names:', updatedUsers);
+    }
+
+    setName(''); // clear input
   };
 
   return (
@@ -47,6 +65,7 @@ function App() {
           onChange={e => setName(e.target.value)}
         />
         <button className="button" onClick={handleAddMessage}>Show Message</button>
+
         {messages.map((msg, i) => <MessageBox key={i} text={msg} />)}
       </div>
     </div>
